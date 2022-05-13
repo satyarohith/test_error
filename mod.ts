@@ -1,1 +1,3 @@
-console.log("i'll not work");
+import every from "every/mod.ts"
+
+console.log(every);
